@@ -1,0 +1,1 @@
+const e={key:"v-47e70772",path:"/code/base/my-blocks.html",title:"\u81EA\u5236\u79EF\u6728",lang:"en-US",frontmatter:{lastUpdated:!0,next:null,prev:null},excerpt:"",headers:[],git:{updatedTime:1644903439e3,contributors:[{name:"lanheixingkong",email:"",commits:1}]},filePathRelative:"code/base/my-blocks.md"};export{e as data};
